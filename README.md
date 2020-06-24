@@ -18,3 +18,8 @@ Make sure that you are under the path "./user_program" when you execute user pro
 Though the execution order of user program "master" and "slave" does not matter,
 it is suggested to execute "master" first to get more precise transmission time.
 
+## Bonus:
+```
+use *sudo ./compile ASYNC* or *sudo ./compile SYNC* to choose mode
+
+```
