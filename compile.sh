@@ -1,5 +1,5 @@
 cd ./ksocket
-make CFLAGS=-D$1
+make CFLAGS=-D"$1"
 insmod ksocket.ko
 cd ../master_device
 make
