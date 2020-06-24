@@ -1,4 +1,5 @@
-# This is the source code and usage of operating system project2.
+# Operating system project 2 
+### This is the source code and usage of operating system project2.
 
 - ./master_device : the device moudule for master server
 - ./slave_device  : the device moudule for slave client
@@ -14,6 +15,10 @@ use sudo ./compile.sh to compile the files and install modules.
 (N is the number of files, M is {mmap, fcntl} which stand for the method it used.
 sudo ./master N f1 ... fN M
 sudo ./slave N f1 ... fN ip(socket used this ip to bind)
+
+
+## the input files we used in experiment
+link: https://drive.google.com/drive/folders/1NV2qhD80oGGEx8I0VWrDL6Mkg7ppNW6B?usp=sharing
 
 
 ## Bonus:
