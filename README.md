@@ -17,9 +17,8 @@ sudo ./master N f1 ... fN M
 sudo ./slave N f1 ... fN ip(socket used this ip to bind)
 
 
-## the input files we used in experiment
-link: https://drive.google.com/drive/folders/1NV2qhD80oGGEx8I0VWrDL6Mkg7ppNW6B?usp=sharing
-
+## experiments
+link: https://drive.google.com/drive/mobile/folders/109YWFVgDi5yxDV1KhWHHza3edIu7mkfb?usp=sharing
 
 ## Bonus:
 ```
